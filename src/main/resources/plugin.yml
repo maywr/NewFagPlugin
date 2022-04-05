@@ -1,0 +1,6 @@
+name: NewFagPlugin
+version: '${project.version}'
+main: xyz.maywr.newfagplugin.NewFagPlugin
+prefix: NEWFAG
+authors: [ maywr ]
+description: Plugin made for newfag.ru 
